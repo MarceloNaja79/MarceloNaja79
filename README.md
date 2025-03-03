@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Olá! Eu sou o Marcelo Naja, um Programador Front End apaixonado por tecnologia. Atualmente, estou aprendendo e Criando Projetos com  e , e dando os primeiros passos no aprendizado de e React. Estou em busca de conhecimento para me tornar um Excelente Programador Full Stack.
+⏩ Olá! Eu sou o Marcelo Naja, um Programador Front End apaixonado❤️ por tecnologia💻. Atualmente, estou aprendendo e Criando Projetos com HTML, CSS e dando os primeiros passos no aprendizado de JAVASCRIPT e REACT🎓. Estou em busca de conhecimento para me tornar um Excelente Programador Full Stack.🚀
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
