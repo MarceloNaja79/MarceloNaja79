@@ -1,3 +1,5 @@
+
+
 ## Hi there 👋
 ⏩ Olá! Eu sou o Marcelo Naja, um Programador Front End apaixonado❤️ por tecnologia💻. Atualmente, estou aprendendo e Criando Projetos com HTML, CSS e dando os primeiros passos no aprendizado de JAVASCRIPT e REACT🎓. Estou em busca de conhecimento para me tornar um Excelente Programador Full Stack.🚀
 
@@ -11,7 +13,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
-[![Marcelo Naja stats](https://github-readme-stats.vercel.app/api?username=MarceloNaja79)](https://github.com/anuraghazra/github-readme-stats)
+[![Marcelo Naja79 stats](https://github-readme-stats.vercel.app/api?username=MarceloNaja79)](https://github.com/anuraghazra/github-readme-stats)
+![arcelo Naja79](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
+
 
 
 
