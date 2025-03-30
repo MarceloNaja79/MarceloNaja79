@@ -9,16 +9,11 @@
 
 
 
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
- ![MarceloNaja79](https://github-readme-stats.vercel.app/api?username=MarceloNaja79&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloNaja79&theme=dark&show_shadow&red)
 ![MarceloNaja79](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNaja79&hide_progress=true)
-
-
-
-
 
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
@@ -40,7 +35,3 @@
 </div>
   
  
-
-
-
-
